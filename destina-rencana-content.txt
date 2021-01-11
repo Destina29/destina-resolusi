@@ -4,5 +4,6 @@ RENCANA KONTEN DESTINA
   *ES6
   *Framework Javascript
 -PHP frameworks
+-Struktur data dasar
 -Interview
 -Vlogs
