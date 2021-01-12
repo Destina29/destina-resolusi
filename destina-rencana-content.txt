@@ -3,7 +3,10 @@ RENCANA KONTEN DESTINA
 -Javascript
   *ES6
   *Framework Javascript
+    ^ Vue
 -PHP frameworks
+  ^ Laravel
 -Struktur data dasar
 -Interview
 -Vlogs
+-Python
