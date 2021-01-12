@@ -4,6 +4,7 @@ RENCANA KONTEN DESTINA
   *ES6
   *Framework Javascript
     ^ Vue
+    ^ React
 -PHP frameworks
   ^ Laravel
 -Struktur data dasar
